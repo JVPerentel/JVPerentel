@@ -3,6 +3,7 @@
 - 👨‍💻 Iniciante em programação, começando esse ano (2023).
 - 📚 Atualmente estuandando lógica de programação e algoritimos.
 - 👍 Qualquer dica ou ajuda que você puder me dar eu aceito ;)
+- 💬 Sobre mim: Tenho 26 anos, migrando para a área de tecnologia.
 
 <div>
   <a href="https://instagram.com/jvperentel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
